@@ -343,6 +343,7 @@
 زرین فناوران فارس 071 - Zarin Fanavaran Fars 071 | [https://071.ir](https://071.ir) | فارس، شیراز | ۲ - ۱۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 ندای فردای ایرانیان کد 3257 - Nedaye Fardaye Iranian 3257 | [http://nakhodabime.com](http://nakhodabime.com) | تهران، تهران | ۱۱ تا ۵۰ نفر | بیمه 
 کوین ایران - Coin Iran | [http://coiniran.com](http://coiniran.com) | تهران، تهران | ۱۱ تا ۵۰ نفر | رسانه و انتشارات 
+توسعه راهکارهای هوشمند آدران - Oddrun | [https://oddrun.ir](https://oddrun.ir) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 
 
 </div>
