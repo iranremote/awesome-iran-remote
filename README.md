@@ -65,7 +65,6 @@
 اورمان تجارت پدیده هوشمند پارلا - Urman | [http://urmanco.ir](http://urmanco.ir) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 راهکار اندیشان ویرا سیستم - Vira System | [http://www.systemgroup.net](http://www.systemgroup.net) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 دو چنگ - Dochengg | [https://dochengg.com/](https://dochengg.com/) | تهران، تهران | ۲ - ۱۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
-نقشه و مسیریاب نشان - Neshan Map And Navigator | [http://life.neshan.org](http://life.neshan.org) | خراسان رضوی، مشهد | ۵۱ تا ۲۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 اسپاد پویش ماندگار - Espad Pouyesh Mandegar | [#](?) | تهران، تهران | ۵۱ تا ۲۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 سحاب  - Sahab  | [http://sahab.ir](http://sahab.ir) | تهران، تهران | ۵۱ تا ۲۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 دولوپمنت هاب - THe Development Hub | [#](?) | فارس، شیراز | ۱۱ تا ۵۰ نفر | تبلیغات، بازاریابی و برندسازی 
@@ -89,7 +88,6 @@
 ضربان - Zaraban | [http://zaraban.ir](http://zaraban.ir) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 ریورک - Re-work | [https://re-work.dev](https://re-work.dev) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 ایران اکسی - IranAxie | [http://iranaxie.com](http://iranaxie.com) | تهران، تهران | ۲ - ۱۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
-آسان پرداخت - Asan Pardakht | [http://www.Asanpardakht.ir](http://www.Asanpardakht.ir) | تهران، تهران | ۵۰۱ تا ۱۰۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 جویای ایده نوید افرا - Joyaye Ide Navid Afra | [https://navidafra.com](https://navidafra.com) | اصفهان، اصفهان | ۲ - ۱۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 برنا فراز یاقوت - Borna Faraz Yaghout | [http://bornafit.ir](http://bornafit.ir) | قم، قم | ۵۱ تا ۲۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 سوق تیم - Souq Team | [#](?) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
@@ -113,7 +111,6 @@
 مرکز تحقیق و توسعه شید - SheedSoft R and D | [http://sheedsoft.com](http://sheedsoft.com) | البرز، کرج | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 کلبه - Kolbeh | [#](?) | تهران، تهران | ۲ - ۱۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 پی استار - PayStar | [http://paystar.ir](http://paystar.ir) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
-اسنپ - Snapp | [http://snapp.ir](http://snapp.ir) | تهران، تهران | بیش از ۱۰۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 تترلند - Tether Land | [https://TetherLand.net](https://TetherLand.net) | تهران، تهران | ۵۱ تا ۲۰۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 فورسایدز - Four Sides | [https://foursides.studio](https://foursides.studio) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
 کالکتیبل ایکس - X Collectible | [#](?) | تهران، تهران | ۱۱ تا ۵۰ نفر | کامپیوتر، فناوری اطلاعات و اینترنت 
